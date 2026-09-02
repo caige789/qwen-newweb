@@ -1,0 +1,18 @@
+{
+  "name": "治愈光屿 · 一座会发光的岛",
+  "short_name": "治愈光屿",
+  "description": "不需要登录，不留下数据。随便点点，获得一点点温柔。",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1a22",
+  "theme_color": "#0b1a22",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
